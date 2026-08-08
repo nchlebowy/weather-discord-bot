@@ -17,4 +17,5 @@ CITIES = [
     {"name": "Baton Rouge, LA", "lat": 30.4515, "lon": -91.1871},
     {"name": "Glen Allen, VA", "lat": 37.6659, "lon": -77.5064},
     {"name": "Thousand Oaks, CA", "lat": 34.1706, "lon": -118.8376},
+    {"name": "Hubert, NC", "lat": 34.7082, "lon": -77.1755},
 ]
