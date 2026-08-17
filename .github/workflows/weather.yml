@@ -5,7 +5,7 @@ on:
 
   schedule:
     # 11:00 UTC = 7:00 AM Eastern Daylight Time
-    - cron: '0 9 * * *'
+    - cron: '0 8 * * *'
 
 jobs:
   post-weather:
